@@ -1,2 +1,0 @@
-# DeckOfCards
-Go project
